@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;700&family=Roboto:wght@300;400;700&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0 auto;
+}
+h1{
+    font-size: clamp(2rem, 4vw, 4rem);
+    color: #333333;
+    
+}
+
+#stay_focused{
+    border-left: 4px solid #ff5959;
+    margin: 10px;
+}
+
+.theme_color{
+    color: #ffad5a;;
+}
+.flex_container{
+    display: flex;
+}
+.top_banner img{
+    width: 80%;
+}
+
+.half_width{
+    width: 50%;
+    padding: 5%;
+    margin: 2%;
+}
+.facebook_btn{
+    background-color: #ff5959 ;
+    padding: 10px 40px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.para{
+    color: #7a7a7a;
+}
+
+h2{
+    color: #13103a;
+    font-size: 50px;
+    text-align: center;
+}
