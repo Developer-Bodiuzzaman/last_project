@@ -25,6 +25,10 @@ h1{
     width: 80%;
 }
 
+.half_width h2{
+    color:#333333;
+}
+
 .half_width{
     width: 50%;
     padding: 5%;
@@ -78,4 +82,24 @@ h2{
 
 .global{
     color: #333333;
+}
+
+.footer{
+    height:200px;
+	width:100%;
+	background-color:#0b0d17; 
+}
+
+.text_color{
+    color: #ff5959;
+}
+.footer p{
+    color:#fff;
+    text-align:center;
+}
+
+.footer h2{
+    color:#fff;
+    font-style:italic;
+
 }
