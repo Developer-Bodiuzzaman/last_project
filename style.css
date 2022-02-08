@@ -46,4 +46,33 @@ h2{
     color: #13103a;
     font-size: 50px;
     text-align: center;
+    width: 700;
+}
+.flex_containar{
+    display: flex;
+    
+}
+.three_width{
+    background-color: #edf5f6;
+    text-decoration: none;
+    border-radius: 40px;
+    height: 350px;
+    width: 25%;
+    margin: 0 auto;
+    padding: 2%;
+}
+
+.three_width img{
+    width: 20%;
+    
+}
+
+.secund_banner img{
+    height: 380px;
+    width: 400px;
+}
+
+.dream_bg{
+    height: 50px;
+    width: 50px;
 }
